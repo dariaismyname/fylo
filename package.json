@@ -1,5 +1,5 @@
 {
-  "name": "simple-tailwind-starter",
+  "name": "fylo",
   "version": "1.0.0",
   "description": "Simple file structure for Tailwind projects",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/style.css"
   },
-  "author": "Brad Traversy",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
